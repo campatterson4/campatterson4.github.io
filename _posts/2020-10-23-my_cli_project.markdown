@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "My CLI Project"
+date:       2020-10-23 19:29:40 +0000
+permalink:  my_cli_project
+---
+
+
+This project was honestly a turning point for me. It was very challenging, and frustrating at times, but I pushed through and learned vital information that helped me learn the world of coding even more. Throughout high school and junior college, I didn't really care about what I was actually learning, and I didn't put in true effort even though I knew I could, but this project taught me that I can truly do whatever I set my mind to. It forced me to push myself, and actually put true analytical thought into what I was creating. I didn't know whether I would be able to work as much as I do and still complete this project and put everything I had into it. As the errors would keep piling up, I put in countless hours of googling, using trial and error with different code, watching YouTube tutorial videos, and I finally found myself completing the project. I used here docs, which I knew very little about before starting the project, and it helped me immensely with figuring out how I wanted to code and how I wanted my application to work. This was also my first time working with my mac terminal, and before Flatiron, even looking at the terminal scared me, but now I feel as if I have mastered it. Though scraping was initially challenging for me, it was one of the easiest parts of this project, and I know exactly how to applicate it at this point. I've also learned a lot about variables and how to utilize them fittingly, in order to run programs the way I want them to. I'm glad I've had the opportunity to put my coding knowledge to use, and actually learn more in the process. Though this is just the tip of the iceberg for my coding career, I feel proud as to what I have accomplished thusfar. 
